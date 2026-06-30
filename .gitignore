@@ -1,0 +1,6 @@
+__pycache__*
+venv
+
+## any video formats
+*.mp4
+*.mpeg
